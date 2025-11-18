@@ -1,0 +1,5 @@
+{
+  "name": "Quick Bill Calculator",
+  "description": "A modern and intuitive bill calculator that allows you to create itemized bills, calculate totals, and send them directly to customers via WhatsApp. Designed for a seamless mobile experience.",
+  "requestFramePermissions": []
+}
